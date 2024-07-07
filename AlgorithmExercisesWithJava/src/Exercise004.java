@@ -18,6 +18,5 @@ public class Exercise004 {
 
         System.out.println("\n");
         userInput.close();
-
     }
 }
