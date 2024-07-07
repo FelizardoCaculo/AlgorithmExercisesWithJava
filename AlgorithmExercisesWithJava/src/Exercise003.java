@@ -19,6 +19,7 @@ public class Exercise003 {
         resultOfSum = firstNumber + SecondNumber;
         System.out.println("\nProcessando dados ... ... ...\n");
         System.out.println(firstNumber + " + " + SecondNumber + " = " + resultOfSum);
+        System.out.println();
 
         userInput.close();
     }
