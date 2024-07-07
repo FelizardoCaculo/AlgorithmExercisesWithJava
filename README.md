@@ -19,3 +19,5 @@ Exercise007 - Desenvolva um programa que leia 2 notas de um aluno, calcule e mos
 
 Exercise008 - Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
 
+Exercise009 - Faça um programa que leia um número inteiro qualquer e mostre na tela sua tabuada.
+
