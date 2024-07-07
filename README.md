@@ -13,3 +13,7 @@ Exercise004 - Faça um programa que leia uma palavra pelo teclado e manipule o t
 
 Exercise005 - Faça um programa que leia um número inteiro e mostre na tela o seu antecessor e sucessor.
 
+Exercise006 - Crie um programa que leia um número e mostre seu dobro, triplo e raíz quadrada
+
+Exercise007 - Desenvolva um programa que leia 2 notas de um aluno, calcule e mostre a média.
+
