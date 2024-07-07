@@ -8,5 +8,5 @@ Exercise002 - Faça um programa que leia o nome de uma pessoa e mostre uma mensa
 
 Exercise003 - Crie uma programa que leia dois números e mostre a soma entre eles.
 
-
+Exercise004 - Faça um programa que leia uma palavra pelo teclado e manipule o testo usando os metodos para Strings
 
