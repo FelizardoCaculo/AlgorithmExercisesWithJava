@@ -21,3 +21,5 @@ Exercise008 - Escreva um programa que leia um valor em metros e o exiba converti
 
 Exercise009 - Faça um programa que leia um número inteiro qualquer e mostre na tela sua tabuada.
 
+Exercise010 - Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ele pode comprar.
+
