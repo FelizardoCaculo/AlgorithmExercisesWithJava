@@ -26,5 +26,7 @@ public class Exercise011 {
         //Outputs
         System.out.printf("\nA parede tem uma área de %.2f metros\n", areaOfTheWall);
         System.out.printf("Precisamos %.2f litros de tinta para pintar toda parede\n\n", quantityOfPaint);
+
+        userInput.close();
     }
 }
