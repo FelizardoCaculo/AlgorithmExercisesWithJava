@@ -1,8 +1,10 @@
 import java.util.Scanner;
+import java.text.DecimalFormat;
 
 public class Exercise010 {
     public static void main(String[] args) {
         //010 - Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ele pode comprar.
+        DecimalFormat df = new DecimalFormat("$ #,000.00"); //Formatting local Angola currency
         Scanner userInput = new Scanner(System.in);
         double originCoinValue;
         double exchangeRate;
@@ -20,7 +22,7 @@ public class Exercise010 {
         destinyCoinValue = originCoinValue / exchangeRate;
 
         //Output
-        System.out.printf("\nVoce pode comprar $%.2f Dólares\n\n", destinyCoinValue);
+        System.out.println("\nVoce pode comprar " + df.format(destinyCoinValue));
 
         System.out.println();
         userInput.close();
