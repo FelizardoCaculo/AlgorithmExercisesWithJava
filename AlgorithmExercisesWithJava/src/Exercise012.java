@@ -1,8 +1,10 @@
 import java.util.Scanner;
+import java.text.DecimalFormat;
 
 public class Exercise012 {
     public static void main(String[] args) {
         //012 - Faça umprograma que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
+        DecimalFormat df = new DecimalFormat("#,000.00 kz"); //Formatting local Angola currency
         Scanner userInput = new Scanner(System.in);
         double productPrice;
         int discountPercentage = 5;
@@ -19,8 +21,8 @@ public class Exercise012 {
         newProductPrice = productPrice - discountValue;
 
         //Output
-        System.out.printf("\nO novo preço é: %.2f \n\n", newProductPrice);
-        
+        System.out.println("\nO novo preço é: " + df.format(newProductPrice));
+        //System.out.println();
         userInput.close();
     }
 }
