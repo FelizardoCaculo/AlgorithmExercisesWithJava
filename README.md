@@ -19,3 +19,4 @@ Exercise013 - Faça um algoritmo que leia o salário de um funcionário e mostre
 Exercise014 - Escreva um programa que converta uma temperatura digitada em graus Celcios para graus Fahrenheit.<br>
 Exercise015 - Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa AKZ 6.000,00 por dia e AKZ 20,00 por cada Km rodado.<br>
 Exercise016 - Crie um programa que leia um número real qualquer no teclado e mostre sua portção inteira.<br>
+Exercise017 - Faça um programa que leia o cumprimento do cateto oposto e do cateto adjacente de um triângulo. Calcule e mostre o cumprimento da hipotenusa.<br>
