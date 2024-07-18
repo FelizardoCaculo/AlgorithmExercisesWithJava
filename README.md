@@ -17,4 +17,5 @@ Exercise011 - Faça um programa que leia a largura e a altura de uma parede em m
 Exercise012 - Faça umprograma que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.<br>
 Exercise013 - Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.<br>
 Exercise014 - Escreva um programa que converta uma temperatura digitada em graus Celcios para graus Fahrenheit.<br>
+Exercise015 - Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa AKZ 6.000,00 por dia e AKZ 20,00 por cada Km rodado.<br>
 
