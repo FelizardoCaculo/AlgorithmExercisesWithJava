@@ -23,9 +23,9 @@ public class Exercise019 {
         fourthStudent = userInput.nextLine();
 
         //Data Processing
-        String [] studantList = {firstStudent, secondStudent, thirdStudent, fourthStudent};
-        chousenIndex  = (int) (Math.random() * studantList.length); //Gera um índece aleatório entre 0 e 3
-        chousenStudent = studantList[chousenIndex];
+        String [] studentList = {firstStudent, secondStudent, thirdStudent, fourthStudent};
+        chousenIndex  = (int) (Math.random() * studentList.length); //Gera um índece aleatório entre 0 e 3
+        chousenStudent = studentList[chousenIndex];
 
         //Output
         System.out.println("\nO aluno escolhido é: " + chousenStudent);
