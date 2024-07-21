@@ -7,8 +7,8 @@ public class Exercise002 {
         Scanner userInput = new Scanner(System.in);
         String userName;
 
-        System.out.println("\nEscreva seu 1º nome: ");
-        userName = userInput.next();
+        System.out.println("\nEscreva seu nome: ");
+        userName = userInput.nextLine(); //NextLine Captura todo texto digitado na linha o que permite receber um texto longo (Ex. Nome completo)
         System.out.println("\nOlá " + userName + ", seja bem vindo ao mundo da programação\n");
         
         userInput.close();    
