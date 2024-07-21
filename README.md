@@ -22,3 +22,4 @@ Exercise016 - Crie um programa que leia um número real qualquer no teclado e mo
 Exercise017 - Faça um programa que leia o cumprimento do cateto oposto e do cateto adjacente de um triângulo. Calcule e mostre o cumprimento da hipotenusa.<br>
 Exercise018 - Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.<br>
 Exercise019 - Um professor quer sortear um dos seu 4 alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome dos alunos e escrevendo na tela o nome do escolhido.
+Exercise020 - O mesmo professor do exercício anterior "019" quer sortear a ordem de apresentação de trabalhos dos alunos. Faça umprograma que leia o nome dos 4 alunos e mostre a ordem sorteada.<br>
