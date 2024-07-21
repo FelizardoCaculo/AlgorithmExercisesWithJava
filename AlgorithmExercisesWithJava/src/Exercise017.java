@@ -1,9 +1,11 @@
 import java.util.Scanner;
+import java.text.DecimalFormat;
 
 public class Exercise017 {
     public static void main(String[] args) {
         //017 - Faça um programa que leia o cumprimento do cateto oposto e do cateto adjacente de um triângulo. Calcule e mostre o cumprimento da hipotenusa.
         Scanner userInput = new Scanner(System.in);
+        DecimalFormat df = new DecimalFormat("#0.00");
         double lengthOfOppositeSide;
         double lengthOfAdjacentSide;
         double lengthOfHypotenuse;
@@ -19,7 +21,7 @@ public class Exercise017 {
         lengthOfHypotenuse = Math.sqrt(Math.pow(lengthOfOppositeSide, 2) + Math.pow(lengthOfAdjacentSide, 2));
 
         //Output
-        System.out.println("\nO cumprimento da hipotenusa é: " + lengthOfHypotenuse);
+        System.out.println("\nO cumprimento da hipotenusa é: " + df.format(lengthOfHypotenuse));
 
         userInput.close();
     }
